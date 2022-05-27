@@ -1,5 +1,2 @@
 #!/usr/bin/bash
-pwd 0-current_working_directory.sh
-
-
-
+pwd 0-current_working_directory
