@@ -1,1 +1,2 @@
-#!/usr/bin/bash 4-listmorefiles 5-listfilesdigitonly 6-firstdirectory
+#! /bin/bash
+ls -l /alx-system_engineering-devops/0x00-shell_basics
