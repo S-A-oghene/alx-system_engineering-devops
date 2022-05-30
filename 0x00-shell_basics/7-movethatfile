@@ -1,1 +1,2 @@
-#!/usr/bin/bash 8-firstdelete 9-firstdirdeletion 10-back 11-lists 12-file_type 13-symbolic_link 14-copy_html
+#!/bin/bash 
+mv /tmp/betty /tmp/my_first_directory
