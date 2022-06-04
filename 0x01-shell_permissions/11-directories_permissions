@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 sub_dir_test
+chmod 755 /alx-system_engineering-devops/0x01-shell_permissions/sub_dir_test
