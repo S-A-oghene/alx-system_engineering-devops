@@ -1,0 +1,2 @@
+find: paths must precede expression: `inside.txt'
+find: possible unquoted pattern after predicate `-type'?
